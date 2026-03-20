@@ -1,0 +1,17 @@
+.container_hero{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.container_hero h1{
+  font-size: 3rem;
+  color: var(--primary-color);
+}
+
+.container_hero p{
+  font-size: 1.5rem;
+  color: var(--text-color);
+}
