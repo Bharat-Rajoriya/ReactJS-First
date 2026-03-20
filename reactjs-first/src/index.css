@@ -12,9 +12,9 @@ body{
 }
 
 :root{
-  --primary-color: #4CAF50;
+  --primary-color: #002231;
   --secondary-color: #f44336;
-  --text-color: #333;
+  --text-color: #111;
 }
 
 .container_hero{
